@@ -55,7 +55,7 @@
     "@typescript-eslint/eslint-plugin": "8.20.0",
     "benny": "3.7.1",
     "chai": "4.3.10",
-    "eslint": "8.57.0",
+    "eslint": "9.18.0",
     "eslint-plugin-import": "2.31.0",
     "husky": "9.1.7",
     "lint-staged": "15.4.1",
